@@ -1,0 +1,15 @@
+{
+  "name": "101431281_COMP3123_exec05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nigar Ahmadova - Exercise Lab 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
